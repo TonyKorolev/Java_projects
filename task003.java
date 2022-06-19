@@ -1,8 +1,11 @@
+// Написать программу вычисления n-ого треугольного числа
+
 package seminars;
 import java.util.Scanner;
 
 public class task003 {
     public static void main(String[] args) {
+        System.out.println("Программа выдает треугольное число по заданному числу n.");
         Scanner sc = new Scanner(System.in);
         int n;
         do {
