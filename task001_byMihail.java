@@ -1,4 +1,3 @@
-package seminars;
 public class task001_byMihail {
     public static double pow(double num, int pow){
 
