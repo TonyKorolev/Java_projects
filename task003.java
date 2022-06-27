@@ -1,6 +1,5 @@
 // Написать программу вычисления n-ого треугольного числа
 
-package seminars;
 import java.util.Scanner;
 
 public class task003 {
