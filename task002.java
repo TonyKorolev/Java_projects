@@ -11,8 +11,6 @@
 // *Подумать над тем, как сделать минимальное количество команд
 
 
-package seminars;
-
 public class task002 {
     public static void main(String[] args) {
         String path = name(1, 7, 2, 1);
